@@ -1,0 +1,3 @@
+O que é um docker?
+Docker é uma aplicacao que permite a craicacao, edicao e encamnhamento de aplicacoes.
+
