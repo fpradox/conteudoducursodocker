@@ -3,3 +3,4 @@ Docker é uma aplicacao que permite a craicacao, edicao e encamnhamento de aplic
 
 Aprendi a configurar o github no meu vscode.
 
+Agora ja esta meu editor de texto, sincroniziado ao github.
